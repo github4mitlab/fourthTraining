@@ -1,0 +1,23 @@
+{
+  "name": "fourthtraining",
+  "version": "1.0.0",
+  "description": "4",
+  "main": "server.js",
+  "scripts": {
+    "test": "start",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github4mitlab/fourthTraining.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "maylee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/github4mitlab/fourthTraining/issues"
+  },
+  "homepage": "https://github.com/github4mitlab/fourthTraining#readme"
+}
